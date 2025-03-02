@@ -8,9 +8,9 @@ st.set_page_config(page_title="Newton's Law of Cooling: Explained!", page_icon="
 #newtonFormula = st.file_uploader("Images/Screenshot 2025-02-26 182724.png", type=["png"])
 
 
-newtonFormulaImg = Image.open("C:\\Users\Anjan\Website\Images\Fromula.png")
-slopeFeilds = Image.open("C:\\Users\Anjan\Website\Images\Slope feild.png")
-posEq = Image.open("C:\\Users\Anjan\Website\Images\positionEq.png")
+newtonFormulaImg = Image.open("Images\Fromula.png")
+slopeFeilds = Image.open("Images\Slope feild.png")
+posEq = Image.open("Images\positionEq.png")
 
 # First centered title
 
